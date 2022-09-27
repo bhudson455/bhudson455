@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bhudson455
 - 👀 I’m interested in Technical Writing
 - 🌱 I’m currently learning SQL and forms of techincal writing
-- 💞️ I’m looking to collaborate on prjoects 
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: email me at benjaminhudson353@yahoo.com
 
 <!---
